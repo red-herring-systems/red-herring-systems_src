@@ -5,13 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1983449826",
+    "hash" : "0",
     "id" : "E9CD2934",
-    "lastKnownWriteTime" : 1528850610,
-    "last_content_update" : 1528850610,
+    "lastKnownWriteTime" : 1528852153,
+    "last_content_update" : 1528852153632,
     "path" : "~/workspace/red_herring_website/config.toml",
     "project_path" : "config.toml",
     "properties" : {
+        "cursorPosition" : "282,13",
+        "scrollLine" : "277"
     },
     "relative_order" : 1,
     "source_on_save" : false,
